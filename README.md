@@ -1,4 +1,4 @@
-# 👋 Blockchain Engineer 
+# 👨‍💻 Blockchain Engineer | dApp Developer | Security Auditor
 
 | **Info**        | **Links**                                                                 |
 |-----------------|----------------------------------------------------------------------------|
@@ -7,4 +7,4 @@
 
 ---
 
-Hi! I'm Qasim, a passionate Computer Science graduate from Government College University. With a solid foundation in programming and a strong background in WordPress development, I've spent the last couple of years designing websites on platforms like Fiverr and Upwork. Recently, I’ve expanded into React.js and blockchain development, continually striving to grow in the ever-evolving tech world. I'm always open to learning new technologies and exploring opportunities to sharpen my skills.
+Hi! I'm Qasim, a passionate Blockchain Engineer with a sharp eye for analyzing complex problems and evaluating effective and secure solutions. I have a solid foundation in building decentralized applications (dApps) and thrive on solving real-world challenges with blockchain technology. Whether you're launching a new project or need a thorough security audit, I’m ready to help. Let’s connect and get started on building something great together!
